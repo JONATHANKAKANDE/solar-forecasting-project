@@ -6,3 +6,11 @@ The AI model for forecasting and managing the generated energy is fed both physi
 1. Clone this repository:
 ```bash
 git clone https://github.com/JONATHANKAKANDE/solar-forecasting-project
+
+## Requirements
+pandas
+numpy
+pvlib-python
+scikit-learn
+jupyter
+matplotlib
